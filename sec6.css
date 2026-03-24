@@ -12,6 +12,7 @@
 }
 @media(max-width:767px) {
 .sec6 >:nth-child(1) {
+  height: auto;
   gap: 30px;
   display: grid;
   grid-template-columns: auto auto;

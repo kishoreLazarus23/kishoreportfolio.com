@@ -64,14 +64,15 @@
 }
 @media(max-width:1024px){
  .sec2{
-  height: 120%;
+    height: 120%;
 }
  .sec-2-2 {
-  margin-top: 80px;
-  flex-direction: column;   
+    margin-top: 80px;
+    flex-direction: column;   
  }
  .sec-2-2-1{
-    margin-left: 0px;
+    margin: auto;
+    padding: 10px;
  }
  
  .sec-2-2-2{
@@ -81,19 +82,22 @@
 @media(max-width:767px){
 
 .sec-2-2 {
-  margin-top: 50px;
-  flex-direction: column;   
+    margin-top: 50px;
+    flex-direction: column;   
  }
  .sec-2-2-1{
-    margin-left: 0px;
+    margin: auto;
+    padding: 10px;
  }
 
  .sec-2-2-1 img {
-  width: 250px;  
+    width: 250px;  
 }
  .sec-2-2-2{
     align-items: center;
 }
  .sec-2-2-2-1{
-   flex-direction: column;
- }      
+    flex-direction: column;
+ }
+}
+       

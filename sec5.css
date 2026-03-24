@@ -44,6 +44,7 @@
 }
 @media(max-width:767px) {
 .sec-5-2 {
+  height: auto;
   gap: 15px;
   padding: 10px;  
 }    

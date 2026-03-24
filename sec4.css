@@ -45,7 +45,7 @@
 }
 @media(max-width:1024px){
     .sec4 {
-      height: 100%;
+      height: auto;
     }
     .sec-4-2 {
       flex-direction: column;
@@ -65,6 +65,7 @@
 }
 @media(max-width:767px){
 }   .box3 {
+     height: auto;
      width: 300px;
      gap: 15px;
 }
